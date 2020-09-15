@@ -1,0 +1,61 @@
+.checkin {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+  background-color: white;
+}
+
+.amazon_logo {
+  width: 100px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  object-fit: contain;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.loginsquare {
+  display: flex;
+  flex-direction: column;
+  border-radius: 5px;
+  border: 1px solid lightgray;
+  width: 300px;
+  height: fit-content;
+  margin-top: 30px;
+  padding: 20px;
+}
+
+.logintitle {
+  font-weight: 500;
+  margin-bottom: 20px;
+}
+
+.loginsquare > form > label {
+  margin-bottom: 4px;
+}
+
+.loginsquare > form > input {
+  height: 30px;
+  margin-bottom: 10xp;
+  background-color: white;
+  width: 98%;
+}
+
+.loginsquare > button {
+  margin-top: 10px;
+  background-color: darkgoldenrod;
+  color: black;
+  border: 1px solid orange;
+}
+
+.loginsquare > p {
+  margin-top: 15px;
+}
+
+.loginsquare > .registerbutton {
+  margin-top: 10px;
+  background-color: lightgrey;
+  color: black;
+  border: 1px solid gray;
+}

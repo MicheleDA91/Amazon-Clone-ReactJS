@@ -1,0 +1,23 @@
+.checkout {
+  display: flex;
+  margin-bottom: 20px;
+  background-color: white;
+  max-height: max-content;
+}
+
+.amazon__ads {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.shopping_title {
+  margin-right: 10px;
+  padding: 10px;
+  border-bottom: 1px solid black;
+}
+
+.checkout__right {
+  margin-top: 20px;
+  margin-right: 10px;
+  margin-left: 800px;
+}
